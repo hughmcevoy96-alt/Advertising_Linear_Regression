@@ -72,8 +72,8 @@ Python, pandas, NumPy, scikit-learn, Matplotlib, seaborn and Jupyter Notebook.
 ## How to Run
 
 ```bash
-git clone <repo-url>
-cd <repo-folder>
+git clone https://github.com/hughmcevoy96-alt/Advertising_Linear_Regression.git
+cd Advertising_Linear_Regression
 pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 jupyter notebook Advertising_-_Linear_Regression.ipynb
 ```
